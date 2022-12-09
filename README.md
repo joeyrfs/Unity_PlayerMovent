@@ -2,7 +2,8 @@
 <br>
 Movimentação do player com teclado e mouse
 <br>
-'''
+
+```C#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -22,4 +23,4 @@ public class Player : MonoBehaviour
 
     }
 }
-'''
+```
